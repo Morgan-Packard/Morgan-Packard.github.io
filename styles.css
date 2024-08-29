@@ -11,6 +11,10 @@ p {
     text-align: left;
 }
 
+a {
+    color: lightgrey;
+}
+
 .ascii-art {
     text-align: left;
 }
