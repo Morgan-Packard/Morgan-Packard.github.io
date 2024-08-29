@@ -1,9 +1,33 @@
 body {
-    background-color: rgba(1, 116, 151, 0.975);
+    background-color: rgba(0, 98, 128, 0.975);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: left;
 }
 
 .ascii-art {
     text-align: left;
     font-size:xx-small;
-    
+}
+
+.flex-container {
+    display:flex;
+}
+
+.attributes {
+    text-align: left;
+}
+
+.font1 {
+    color:darkorange;
+}
+
+.font2 {
+    color:rgb(255, 255, 255);
 }
